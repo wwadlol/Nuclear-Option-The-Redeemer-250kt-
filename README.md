@@ -3,4 +3,10 @@ The weapon is limited to the Medusa (internal bay), Darkreach and Alkyon. Medium
 
 Addon made using NO-Blueprinter
 
-Place the .nopb file inside your BepinEx plugins folder and voila
+Requirements:
+BepinEx https://github.com/BepInEx/BepInEx/releases
+Nikkorap's Blueprinter (goes into your BepinEx plugin folder) https://github.com/nikkorap/NOBlueprinter-Releases/releases/tag/2.0.1
+
+You can also use NOMM to install BepinEx and Blueprinter more easily
+
+Finally, place the .nopb file inside your BepinEx plugins folder and voila
